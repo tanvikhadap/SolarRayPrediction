@@ -1,5 +1,3 @@
-Here’s a README file in a more structured format, using headings and bullet points to enhance clarity without relying on Markdown:
-
 ---
 
 # Solar Radiation Prediction Project
@@ -46,5 +44,3 @@ Place the README file in the top-level directory of the project. This ensures th
 - **Pandas**: For data manipulation.
 
 ---
-
-This format organizes the information clearly and concisely, making it easy for users to find relevant sections quickly. You can adapt it further if needed!
